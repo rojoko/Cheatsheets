@@ -18,6 +18,11 @@ https://sites.google.com/site/tddproblems/
 http://karolgalanciak.com/blog/2014/01/04/test-driven-rails-part-1/
 http://robots.thoughtbot.com/rspec-integration-tests-with-capybara
 
+*APIs*
+
+http://www.emilsoman.com/blog/2013/05/18/building-a-tested/
+
+
 *Casts*
 
 https://www.destroyallsoftware.com/screencasts/catalog
