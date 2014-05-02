@@ -31,6 +31,7 @@ http://www.metacasts.tv/
 http://railscasts.com/
 https://cooperpress.com/rubyreloaded
 https://cooperpress.com/rubywalkthrough
+http://cleancoders.com/
 http://www.rubytapas.com/
 
 
