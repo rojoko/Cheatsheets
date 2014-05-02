@@ -5,6 +5,7 @@ http://blog.envylabs.com/post/79198082352/component-based-rails
 http://monkeyandcrow.com/blog/reading_rails_the_adapter_pattern/
 http://martinfowler.com/bliki/CircuitBreaker.html
 http://martinfowler.com/articles/microservices.html
+http://brewhouse.io/blog/2014/04/30/gourmet-service-objects.html
 
 *Style*
 
