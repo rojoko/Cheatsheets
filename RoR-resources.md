@@ -18,6 +18,7 @@ http://betterspecs.org/
 https://sites.google.com/site/tddproblems/
 http://karolgalanciak.com/blog/2014/01/04/test-driven-rails-part-1/
 http://robots.thoughtbot.com/rspec-integration-tests-with-capybara
+http://robots.thoughtbot.com/how-we-test-rails-applications
 
 *APIs*
 
