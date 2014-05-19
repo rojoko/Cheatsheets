@@ -6,6 +6,7 @@ http://monkeyandcrow.com/blog/reading_rails_the_adapter_pattern/
 http://martinfowler.com/bliki/CircuitBreaker.html
 http://martinfowler.com/articles/microservices.html
 http://brewhouse.io/blog/2014/04/30/gourmet-service-objects.html
+https://github.com/justin808/fat-code-refactoring-techniques
 
 *Style*
 
