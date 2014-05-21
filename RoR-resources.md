@@ -36,6 +36,8 @@ https://cooperpress.com/rubywalkthrough
 http://cleancoders.com/
 http://www.rubytapas.com/
 
+*IDEAS*
+Email failover with MultiSMTP http://engineering.hoteltonight.com/rails-email-failover-with-multi-smtp-support
 
 *FUN*
 
