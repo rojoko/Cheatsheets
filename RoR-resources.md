@@ -37,7 +37,14 @@ http://cleancoders.com/
 http://www.rubytapas.com/
 
 *IDEAS*
+
 Email failover with MultiSMTP http://engineering.hoteltonight.com/rails-email-failover-with-multi-smtp-support
+
+
+*Userull*
+
+Geolocation and Ruby/Rails http://daniel-azuma.com/articles/georails
+
 
 *FUN*
 
