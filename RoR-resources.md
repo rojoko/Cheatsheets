@@ -1,13 +1,21 @@
 *Refactoring*
 
 http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/
+
 http://blog.envylabs.com/post/79198082352/component-based-rails
+
 http://monkeyandcrow.com/blog/reading_rails_the_adapter_pattern/
+
 http://martinfowler.com/bliki/CircuitBreaker.html
+
 http://martinfowler.com/articles/microservices.html
+
 http://brewhouse.io/blog/2014/04/30/gourmet-service-objects.html
+
 https://github.com/justin808/fat-code-refactoring-techniques
+
 http://hawkins.io/2013/10/implementing_the_repository_pattern/
+
 http://blog.arkency.com/2014/07/microservices-72-resources/ 
 
 
