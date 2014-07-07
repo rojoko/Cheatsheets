@@ -16,6 +16,8 @@ https://github.com/justin808/fat-code-refactoring-techniques
 
 http://hawkins.io/2013/10/implementing_the_repository_pattern/
 
+http://www.integralist.co.uk/posts/refactoring-techniques/
+
 http://blog.arkency.com/2014/07/microservices-72-resources/ 
 
 
