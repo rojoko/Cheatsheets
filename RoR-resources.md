@@ -18,7 +18,9 @@ http://hawkins.io/2013/10/implementing_the_repository_pattern/
 
 http://www.integralist.co.uk/posts/refactoring-techniques/
 
-http://blog.arkency.com/2014/07/microservices-72-resources/ 
+http://blog.arkency.com/2014/07/microservices-72-resources/
+
+https://blog.yourkarma.com/building-microservices-at-karma
 
 http://blog.carbonfive.com/2014/05/29/an-incremental-migration-from-rails-monolithic-to-microservices/
 
