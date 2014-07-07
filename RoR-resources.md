@@ -72,6 +72,11 @@ Geolocation and Ruby/Rails http://daniel-azuma.com/articles/georails
 
 http://thaiwood.io/movie-night-and-bacon-a-mechanize-tutorial-with-examples/
 
+*AREL*
+
+http://codemy.net/posts/build-a-custom-query-with-arel
+http://jpospisil.com/2014/06/16/the-definitive-guide-to-arel-the-sql-manager-for-ruby.html
+
 *FUN*
 
 http://codekata.com/
