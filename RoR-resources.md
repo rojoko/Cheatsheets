@@ -7,12 +7,15 @@ http://martinfowler.com/bliki/CircuitBreaker.html
 http://martinfowler.com/articles/microservices.html
 http://brewhouse.io/blog/2014/04/30/gourmet-service-objects.html
 https://github.com/justin808/fat-code-refactoring-techniques
+http://hawkins.io/2013/10/implementing_the_repository_pattern/
 http://blog.arkency.com/2014/07/microservices-72-resources/ 
 
 
 *Style*
 
 https://github.com/thoughtbot/guides
+https://github.com/bbatsov/ruby-style-guide
+https://github.com/bbatsov/rubocop
 https://houndci.com/
 
 *Testing*
