@@ -64,10 +64,13 @@ http://www.rubytapas.com/
 Email failover with MultiSMTP http://engineering.hoteltonight.com/rails-email-failover-with-multi-smtp-support
 
 
-*Userull*
+*Geolocation*
 
 Geolocation and Ruby/Rails http://daniel-azuma.com/articles/georails
 
+*Scraping websites*
+
+http://thaiwood.io/movie-night-and-bacon-a-mechanize-tutorial-with-examples/
 
 *FUN*
 
