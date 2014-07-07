@@ -20,9 +20,14 @@ http://www.integralist.co.uk/posts/refactoring-techniques/
 
 http://blog.arkency.com/2014/07/microservices-72-resources/ 
 
+http://blog.carbonfive.com/2014/05/29/an-incremental-migration-from-rails-monolithic-to-microservices/
+
 http://patmaddox.com/2014/05/15/poof-and-then-rails-was-gone/ A hexagonal application
 
+http://martinfowler.com/articles/badri-hexagonal/ A Conversation with Badri Janakiraman about Hexagonal Rails
+
 http://www.railsonmaui.com//blog/2014/04/23/railsconf-2014/ Concerns, Decorators, Presenters, Service Objects, Helpers, Help me Decide
+
 
 *Style*
 
