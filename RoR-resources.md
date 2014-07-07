@@ -7,6 +7,8 @@ http://martinfowler.com/bliki/CircuitBreaker.html
 http://martinfowler.com/articles/microservices.html
 http://brewhouse.io/blog/2014/04/30/gourmet-service-objects.html
 https://github.com/justin808/fat-code-refactoring-techniques
+http://blog.arkency.com/2014/07/microservices-72-resources/ 
+
 
 *Style*
 
