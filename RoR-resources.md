@@ -20,6 +20,9 @@ http://www.integralist.co.uk/posts/refactoring-techniques/
 
 http://blog.arkency.com/2014/07/microservices-72-resources/ 
 
+http://patmaddox.com/2014/05/15/poof-and-then-rails-was-gone/ A hexagonal application
+
+http://www.railsonmaui.com//blog/2014/04/23/railsconf-2014/ Concerns, Decorators, Presenters, Service Objects, Helpers, Help me Decide
 
 *Style*
 
