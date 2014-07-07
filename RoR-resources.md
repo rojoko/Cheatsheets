@@ -76,6 +76,9 @@ http://thaiwood.io/movie-night-and-bacon-a-mechanize-tutorial-with-examples/
 
 http://codemy.net/posts/build-a-custom-query-with-arel
 http://jpospisil.com/2014/06/16/the-definitive-guide-to-arel-the-sql-manager-for-ruby.html
+https://github.com/camertron/arel-helpers
+http://pivotallabs.com/using-arel-to-build-complex-sql-expressions/
+
 
 *FUN*
 
