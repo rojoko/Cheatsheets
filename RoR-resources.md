@@ -30,6 +30,8 @@ http://martinfowler.com/articles/badri-hexagonal/ A Conversation with Badri Jana
 
 http://www.railsonmaui.com//blog/2014/04/23/railsconf-2014/ Concerns, Decorators, Presenters, Service Objects, Helpers, Help me Decide
 
+http://shayfrendt.com/posts/upgrading-github-to-rails-3-with-zero-downtime/ avoid Long-running branches / Dual-boot application (Rails 2 & 3)
+
 
 *Style*
 
