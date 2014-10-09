@@ -91,6 +91,12 @@ http://jpospisil.com/2014/06/16/the-definitive-guide-to-arel-the-sql-manager-for
 https://github.com/camertron/arel-helpers
 http://pivotallabs.com/using-arel-to-build-complex-sql-expressions/
 
+*DB*
+http://codecrate.com/2014/09/using-rails-migrations-to-manipulate-data.html Using Rails Migrations to Manipulate Data
+
+http://blog.arkency.com/2014/10/how-to-start-using-uuid-in-activerecord-with-postgresql/ using UUID in ActiveRecord with PostgreSQL
+
+http://stonecolddev.in/posts/quick-and-dirty-how-to-trees-in-sql-postgres-rails-4 Trees in SQL + Postgres + Rails 4
 
 *FUN*
 
