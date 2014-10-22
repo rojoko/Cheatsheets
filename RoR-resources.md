@@ -98,6 +98,8 @@ http://blog.arkency.com/2014/10/how-to-start-using-uuid-in-activerecord-with-pos
 
 http://stonecolddev.in/posts/quick-and-dirty-how-to-trees-in-sql-postgres-rails-4 Trees in SQL + Postgres + Rails 4
 
+https://tomafro.net/2009/09/quickly-list-missing-foreign-key-indexes Quickly list missing foreign key indexes
+
 *FUN*
 
 http://codekata.com/
