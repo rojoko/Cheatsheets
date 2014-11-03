@@ -32,6 +32,10 @@ http://www.railsonmaui.com//blog/2014/04/23/railsconf-2014/ Concerns, Decorators
 
 http://shayfrendt.com/posts/upgrading-github-to-rails-3-with-zero-downtime/ avoid Long-running branches / Dual-boot application (Rails 2 & 3)
 
+http://blog.arkency.com/2014/10/instantiating-service-objects/
+
+http://blog.arkency.com/2014/08/ruby-rails-adapters/
+
 
 *Style*
 
