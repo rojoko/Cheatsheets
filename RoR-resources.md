@@ -79,6 +79,9 @@ https://gorails.com/
 
 Email failover with MultiSMTP http://engineering.hoteltonight.com/rails-email-failover-with-multi-smtp-support
 
+*Payments*
+
+Adding Stripe Payments to a Rails App Using Webhooks http://www.airpair.com/ruby-on-rails/posts/adding-stripe-to-rails-with-webhooks 
 
 *Geolocation*
 
