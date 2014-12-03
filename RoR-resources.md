@@ -34,6 +34,8 @@ http://shayfrendt.com/posts/upgrading-github-to-rails-3-with-zero-downtime/ avoi
 
 http://blog.arkency.com/2014/10/instantiating-service-objects/
 
+http://adamniedzielski.github.io/blog/2014/11/25/my-take-on-services-in-rails/
+
 http://blog.arkency.com/2014/08/ruby-rails-adapters/
 
 
